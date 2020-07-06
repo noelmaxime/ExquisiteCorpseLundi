@@ -5,6 +5,13 @@ Once upon a time a guy with a grey hat. All he wanted to do was to help people,
 Unfornutately his hat was so unfashionable that nobody woult talk to him.
 He tried to help m'ladies. But none would acknoledge him and the supperior help
 such a fine gentleman could give. 
-Clothes were never his thing, so he had little care for these things.
+<<<<<<< HEAD
+ Clothes were never his thing, so he had little care for these things.
 He allways wondered why people were so involved in style.
 at last he decied to get some real help.
+=======
+
+He said to himself, "If others don't want my help, I'll help myself instead". 
+He changed his gray hat to black and now life is much simpler. 
+Since that change, we keep asking him to get a white hat, but it's so much cooler in black. 
+>>>>>>> cfd01199a154ae9f7138369ac6e2f1541ab63432
